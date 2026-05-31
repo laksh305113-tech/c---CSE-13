@@ -1,4 +1,4 @@
-// Count Vowels in a String
+// Count vowels in a String
 
 function countVowels(str) {
     let count = 0;
