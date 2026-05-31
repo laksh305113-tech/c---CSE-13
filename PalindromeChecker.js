@@ -1,4 +1,4 @@
-// Palindrome Checker
+
 
 function isPalindrome(word) {
     const reversedWord = word.split('').reverse().join('');
